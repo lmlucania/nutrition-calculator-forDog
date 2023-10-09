@@ -1,0 +1,5 @@
+[
+  {"name" : "protein", "label":  "タンパク質","calories" : 4},
+  {"name" : "carbohydrates", "label":  "炭水化物","calories" : 4},
+  {"name" : "fat", "label":  "脂質","calories" : 9}
+]

@@ -1,0 +1,9 @@
+[
+  { "id": 1, "name": "去勢・避妊成犬", "coefficient": 1.6 },
+  { "id": 2, "name": "未去勢・未避妊成犬", "coefficient": 1.8 },
+  { "id": 3, "name": "あまり動かない", "coefficient": 1.3 },
+  { "id": 4, "name": "太り気味", "coefficient": 1.3 },
+  { "id": 5, "name": "ダイエット中", "coefficient": 1.0 },
+  { "id": 6, "name": "子犬（5ヶ月から）", "coefficient": 3.0 },
+  { "id": 7, "name": "子犬（4ヶ月まで）", "coefficient": 2.0 }
+]

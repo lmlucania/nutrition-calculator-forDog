@@ -1,0 +1,22 @@
+[{
+        "id": 1,
+        "name": "鶏もも（皮なし）",
+        "protein": 18.8,
+        "carbohydrates": 0.4,
+        "fat": 3.9,
+        "fiber": 0,
+        "moisture": 76.3,
+        "P": 0.19,
+        "calories": 113.0
+      },
+      {
+        "id": 2,
+        "name": "鶏むね（皮なし）",
+        "protein": 23.3,
+        "carbohydrates": 0.1,
+        "fat": 1.9,
+        "fiber": 0,
+        "moisture": 75.2,
+        "P": 0.22,
+        "calories": 105.0
+      }]
